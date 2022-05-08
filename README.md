@@ -46,6 +46,6 @@ matriz e no LCD.
 ### Demonstração do funcionamento do projeto final
 ![MSP and modules](https://github.com/fernandodealcantara/snake_game_msp430/blob/main/docs/msp_and_modules.png "MSP and modules")
 
-[Demonstration video](https://github.com/fernandodealcantara/snake_game_msp430/blob/main/docs/demonstration.mp4)
+[Demonstration video](https://youtu.be/OHURgy6J5Q8)
 
 
