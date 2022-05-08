@@ -18,6 +18,7 @@ O MSP430F5529 será responsável por gerenciar os módulos utilizados e também 
 responsável por gerenciar o estado do jogo.
 
 Para comunicar os módulos com o MSP430F5529 foram feitas as seguintes conexões.
+![Program connections](https://github.com/fernandodealcantara/snake_game_msp430/blob/main/docs/connections.png "Program connections")
 
 ### Tipos de comunicação utilizados com cada módulo
 - Matriz LED 8x8 ➜ SPI
@@ -25,8 +26,7 @@ Para comunicar os módulos com o MSP430F5529 foram feitas as seguintes conexões
 - Bluetooth ➜ UART
 
 ### Fluxo do programa
-
-### Organização do programa
+![Program flow](https://github.com/fernandodealcantara/snake_game_msp430/blob/main/docs/program_flow.png "Program flow")
 
 ### Funcionamento do programa
 
@@ -44,3 +44,8 @@ Conforme são enviados os comandos o programa os processa e mostra o estado atua
 matriz e no LCD.
 
 ### Demonstração do funcionamento do projeto final
+![MSP and modules](https://github.com/fernandodealcantara/snake_game_msp430/blob/main/docs/msp_and_modules.png "MSP and modules")
+
+[Demonstration video](https://github.com/fernandodealcantara/snake_game_msp430/blob/main/docs/demonstration.mp4)
+
+
